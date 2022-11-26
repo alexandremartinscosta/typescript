@@ -58,3 +58,5 @@ function totalMudou() {
 if (input) {
   input.addEventListener('keyup', totalMudou);
 };
+
+console.log("teste");
